@@ -1,2 +1,0 @@
-# Armafia
- Mafia online
